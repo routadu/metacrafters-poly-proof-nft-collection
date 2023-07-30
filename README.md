@@ -36,4 +36,6 @@ The images has beed stored on an IPFS, which provides a unique ID called CID for
 ### Walkthrough Video
 
 Part 1: https://www.loom.com/share/e85216379c924695b31061013c49b7c2
+&nbsp;
+
 Part 2: https://www.loom.com/share/792fbec5caf3409a99dfbfd7e9cf1dc5
